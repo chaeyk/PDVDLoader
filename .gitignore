@@ -1,0 +1,7 @@
+/Release
+/.vs
+/Debug
+/ipch
+/*.sdf
+/PDVDLoader/Release
+/PDVDLoader/Debug
